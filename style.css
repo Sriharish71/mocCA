@@ -1,0 +1,12 @@
+.img{
+    size: 10ex;
+    background-origin: padding-box;
+}
+.body{
+    color:beige;
+    background: fixed;
+
+}
+#f1{
+    color: rgb(110, 42, 165);
+}
